@@ -114,6 +114,7 @@ const LoginModal = () => {
             {" "}
             Create an account
           </span>
+          <div></div>
         </p>
       </div>
     </div>
